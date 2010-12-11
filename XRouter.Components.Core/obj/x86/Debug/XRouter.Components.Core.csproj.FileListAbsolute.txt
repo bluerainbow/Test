@@ -1,0 +1,12 @@
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.Components.Core.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.Components.Core.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\XRouter.Components.Core.Properties.Resources.resources
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\XRouter.Components.Core.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\obj\x86\Debug\XRouter.Components.Core.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.ComponentWatching.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.ComponentWatching.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.Utils.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Components.Core\bin\Debug\XRouter.Utils.pdb

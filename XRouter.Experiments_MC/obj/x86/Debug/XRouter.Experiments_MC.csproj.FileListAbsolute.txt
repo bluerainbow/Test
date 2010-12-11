@@ -1,0 +1,16 @@
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\XRouter.Experiments_MC.Properties.Resources.resources
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Experiments_MC.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Experiments_MC.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Components.Core.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.ComponentWatching.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Components.Core.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.ComponentWatching.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\XRouter.Experiments_MC.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\obj\x86\Debug\XRouter.Experiments_MC.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Simulator.Api.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Simulator.Api.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Utils.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Experiments_MC\bin\Debug\XRouter.Utils.pdb

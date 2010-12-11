@@ -1,0 +1,8 @@
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\XRouter.Utils.Properties.Resources.resources
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\bin\Debug\XRouter.Utils.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\bin\Debug\XRouter.Utils.pdb
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\XRouter.Utils.dll
+P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Utils\obj\x86\Debug\XRouter.Utils.pdb
