@@ -1,0 +1,4 @@
+component3;475;479
+component4;716;403
+component2;513;313
+component1;325;402

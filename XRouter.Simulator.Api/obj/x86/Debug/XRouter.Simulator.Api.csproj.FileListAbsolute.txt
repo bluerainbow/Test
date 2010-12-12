@@ -1,8 +1,0 @@
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\bin\Debug\XRouter.Simulator.Api.dll
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\bin\Debug\XRouter.Simulator.Api.pdb
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\ResolveAssemblyReference.cache
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\XRouter.Simulator.Api.Properties.Resources.resources
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\GenerateResource.read.1.tlog
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\GenerateResource.write.1.tlog
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\XRouter.Simulator.Api.dll
-P:\Development\csharp\Standalone\XRouter.Framework\XRouter.Simulator.Api\obj\x86\Debug\XRouter.Simulator.Api.pdb
